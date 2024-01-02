@@ -1,3 +1,5 @@
 Hi My name is Bang Bang.
 
 Created a New File
+
+Editing From repo A folder.
