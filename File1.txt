@@ -2,4 +2,9 @@ Hi My name is Bang Bang.
 
 Created a New File
 
+<<<<<<< HEAD
 Editing From repo A folder.
+=======
+Repo B modifications.
+
+>>>>>>> 9206e5a (modified for repo B.)
