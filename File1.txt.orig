@@ -2,14 +2,17 @@ Hi My name is Bang Bang.
 
 Created a New File
 
-Repo B modifications.
-
-Created a New File
-
-Editing From repo A folder.
+<<<<<<< HEAD
 <<<<<<< HEAD
 Editing From repo A folder.
 =======
 Repo B modifications.
 
 >>>>>>> 9206e5a (modified for repo B.)
+=======
+Repo B modifications.
+
+Created a New File
+
+Editing From repo A folder.
+>>>>>>> f25df4b4af3ef5fc613165f861d2353795ca25f2
